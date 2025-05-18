@@ -1,6 +1,4 @@
-![Github banner](https://github.com/airaperez/airaperez/assets/110292677/798996f5-2c2e-45e7-b906-7b214664f561)
-
-Hello! I am **Carlito**, an incoming 4th Year BS Economics undergraduate from UP Diliman who likes coding and is passionate about Econometrics and Statistics. I enjoy transforming data into actionable insights with econometric and statistical analysis, modern programming, and AI.
+# Hello! I am **Carlito**, an incoming 4th Year BS Economics undergraduate from UP Diliman who likes coding and is passionate about Econometrics and Statistics. I enjoy transforming data into actionable insights with econometric and statistical analysis, modern programming, and AI.
 
 ## :computer: Technical Skills
 
