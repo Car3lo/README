@@ -14,7 +14,7 @@ I enjoy using code to clean and transform data into actionable insights with eco
 * **Python:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
 * **Stata:** Data manipulation, regression analysis, causal inference  
 * **Linux:** Command-line proficiency, shell scripting, reproducible research (I've been a Linux user since 2020 – Debian, Void Linux)  
-* **AI & Generative Models:** Leveraging LLMs and generative AI for automated analyses and image creation
+* **AI & Generative Models:** Leveraging LLMs and generative AI for vibe coding, analyses, and image creation
 
 ## :black_nib: Projects
 
