@@ -8,7 +8,7 @@ I enjoy using code to clean and transform data into actionable insights with eco
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-00599C?style=for-the-badge&logo=stata&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6600?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6600?style=for-the-badge&logo=openai&logoColor=white)
 
 * **R:** Tidyverse, ggplot2, RMarkdown  
 * **Python:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
