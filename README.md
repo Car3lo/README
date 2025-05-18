@@ -11,9 +11,9 @@ I enjoy using code to clean and transform data into actionable insights with eco
 ![AI](https://img.shields.io/badge/AI-FF6600?style=for-the-badge&logo=openai&logoColor=white)
 
 * **R:** Tidyverse, ggplot2, RMarkdown  
-* **Python:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
-* **Stata:** Data manipulation, regression analysis, causal inference  
-* **Linux:** Command-line proficiency, shell scripting, reproducible research (I've been a Linux user since 2020 – Debian, Void Linux)  
+* **Python:** NumPy, Pandas, Matplotlib, Seaborn, Statsmodels, Geopandas
+* **Stata:** Data manipulation, regression analysis 
+* **Linux:** Command-line proficiency, shell scripting, familiarity with Linux Systems (Linux User since 2020 – Debian, Void Linux)  
 * **AI & Generative Models:** Leveraging LLMs and generative AI for vibe coding, analyses, and image creation
 
 ## :black_nib: Projects
