@@ -20,11 +20,11 @@ I enjoy using code to clean and transform data into actionable insights with eco
 
 I showcase all my projects directly on GitHub:
 
-- **[SAS_Projects](https://github.com/Car3lo/SAS_Projects)** – A collection of analytical projects demonstrating my SAS proficiency.
-- **[PH_Remittances_Q12025](https://github.com/Car3lo/PH_Remittances_Q12025)** – Time series forecasting and econometric modeling of Philippine remittance data.
-- **[Transactions_Wrangling](https://github.com/Car3lo/Transactions_Wrangling)** – Data cleaning, merging, and summarization of customer transaction data.
-- **[Food_Security_Geospatial_Analysis](https://github.com/Car3lo/Food_Security_Geospatial_Analysis)** – Geospatial analysis with choropleth mapping and regression to study food security.
-- **[PH_Inflation_2025](https://github.com/Car3lo/PH_Inflation_2025)** – Forecasting Philippine inflation using ARIMA models and robust residual diagnostics.
+- **[SAS_Projects](https://github.com/Car3lo/SAS_Projects)** – A collection of analytical projects demonstrating my SAS proficiency. **[SAS]**
+- **[PH_Remittances_Q12025](https://github.com/Car3lo/PH_Remittances_Q12025)** – Time series forecasting and econometric modeling of Philippine remittance data. **[R]**
+- **[Transactions_Wrangling](https://github.com/Car3lo/Transactions_Wrangling)** – Data cleaning, merging, and summarization of customer transaction data. **[R]**
+- **[Food_Security_Geospatial_Analysis](https://github.com/Car3lo/Food_Security_Geospatial_Analysis)** – Geospatial analysis with choropleth mapping and regression to study food security. **[Python]**
+- **[PH_Inflation_2025](https://github.com/Car3lo/PH_Inflation_2025)** – Forecasting Philippine inflation using ARIMA models and robust residual diagnostics. **[R]**
 
 ## :envelope_with_arrow: Let's Connect
 
