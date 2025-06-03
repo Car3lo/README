@@ -1,4 +1,7 @@
-# Hello! I am **Carlito**, an incoming 4th Year BS Economics undergraduate from UP Diliman who likes coding and is passionate about Econometrics and Statistics. 
+# Hello! I am **Carlito**
+- 4th Year BS Economics undergraduate from UP Diliman
+- likes Coding and Linux
+- Favorite subjects are Econometrics, and Statistics. 
 
 I enjoy using code to clean and transform data into actionable insights with econometric and statistical analysis, modern programming, and AI.
 
