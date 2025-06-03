@@ -15,7 +15,7 @@
 * **Python:** NumPy, Pandas, Matplotlib, Seaborn, Statsmodels, Geopandas
 * **Stata:** Data manipulation, regression analysis 
 * **Linux:** Command-line proficiency, shell scripting, familiarity with Linux Systems (Linux User since 2020 – Debian, Void Linux)  
-* **AI & Generative Models:** Leveraging LLMs and generative AI for vibe coding, analyses, and image creation
+* **AI & Generative Models:** LLMs and AI for vibe coding, analyses, and image creation
 
 ## :black_nib: Projects
 
@@ -26,6 +26,14 @@ I showcase all my projects directly on GitHub:
 - **[Transactions_Wrangling](https://github.com/Car3lo/Transactions_Wrangling)** – Data cleaning, merging, and summarization of customer transaction data. **[R]**
 - **[Food_Security_Geospatial_Analysis](https://github.com/Car3lo/Food_Security_Geospatial_Analysis)** – Geospatial analysis with choropleth mapping and regression to study food security. **[Python]**
 - **[PH_Inflation_2025](https://github.com/Car3lo/PH_Inflation_2025)** – Forecasting Philippine inflation using ARIMA models and robust residual diagnostics. **[R]**
+
+## :heart: Extra-Curriculars
+
+Probably the best part of my Undergraduate Years
+- **School of Economics Student Council** - SAC, Internals Core Member since 2023
+- **UP Bike Share** - Former COO, Operations and Finance Team Member
+- **UP Career Assistance Program** - External Affairs Intern
+- **UP Investment Club** - Academic Affairs Project Manager
 
 ## :envelope_with_arrow: Let's Connect
 
