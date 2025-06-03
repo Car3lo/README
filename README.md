@@ -38,5 +38,5 @@ Probably the best part of my Undergraduate Years
 ## :envelope_with_arrow: Let's Connect
 
 * **LinkedIn:** [linkedin.com/in/carloit21](https://www.linkedin.com/in/carloit21/)  
-* **Email:** [carlitou2baldo@gmail.com](mailto:carlitou2baldo@gmail.com) or [cdubaldo1@up.edu.ph](mailto:cdubaldo1@up.edu.ph)  
+* **Email:** Primary: [cdubaldo1@up.edu.ph](mailto:cdubaldo1@up.edu.ph) or [carlitou2baldo@gmail.com](mailto:carlitou2baldo@gmail.com)
 * **GitHub:** [github.com/Car3lo](https://github.com/Car3lo)
