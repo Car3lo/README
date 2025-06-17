@@ -15,7 +15,7 @@
 * **Python:** NumPy, Pandas, Matplotlib, Seaborn, Statsmodels, Geopandas
 * **Stata:** Data manipulation, regression analysis 
 * **Linux:** Command-line proficiency, shell scripting, familiarity with Linux Systems (Linux User since 2020 – Debian, Void Linux)  
-* **AI & Generative Models:** LLMs and AI for vibe coding, analyses, and image creation
+* **AI & Generative Models:** LLMs and AI for vibe coding webapps, analyses, and image creation
 
 ## :black_nib: Projects
 
