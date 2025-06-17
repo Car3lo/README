@@ -2,7 +2,7 @@
 - 4th Year BS Economics undergraduate from UP Diliman. Graduating in June 2026. Currently looking for Internships or Work during my last semester or after graduation
 - Likes Linux, Coding, AI
 - Favorite subjects are Econometrics, and Statistics
-- Check out my [**LinkedIn**](https://www.linkedin.com/in/carloit21/) or [**Resume**](bit.ly/4leRkD3)
+- Check out my [**LinkedIn**](https://www.linkedin.com/in/carloit21/) or [**Resume**](https://bit.ly/4leRkD3)
 
 ## :computer: Technical Skills
 
