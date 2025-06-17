@@ -1,5 +1,5 @@
 # Hello, I am **Carlito**
-- 4th Year BS Economics undergraduate from UP Diliman
+- 4th Year BS Economics undergraduate from UP Diliman. Graduating in June 2026. Currently looking for Internships or Work during my last semester or after graduation
 - Likes Linux, Coding, AI
 - Favorite subjects are Econometrics, and Statistics
 - Check out my [**LinkedIn**](https://www.linkedin.com/in/carloit21/) or [**Resume**](https://www.youtube.com/watch?v=5Byy4n1nx6w&list=RD5Byy4n1nx6w&start_radio=1https://www.youtube.com/watch?v=5Byy4n1nx6w&list=RD5Byy4n1nx6w&start_radio=1)
