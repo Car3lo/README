@@ -1,7 +1,8 @@
-# Hello! I am **Carlito**
+# Hello, I am **Carlito**
 - 4th Year BS Economics undergraduate from UP Diliman
 - Likes Linux, Coding, AI
-- Favorite subjects are Econometrics, and Statistics. 
+- Favorite subjects are Econometrics, and Statistics
+- Check out my **LinkedIn:** [linkedin.com/in/carloit21](https://www.linkedin.com/in/carloit21/) or **Resume**[https://www.youtube.com/watch?v=5Byy4n1nx6w&list=RD5Byy4n1nx6w&start_radio=1https://www.youtube.com/watch?v=5Byy4n1nx6w&list=RD5Byy4n1nx6w&start_radio=1]
 
 ## :computer: Technical Skills
 
@@ -35,8 +36,6 @@ Probably the best part of my Undergraduate Years
 - **UP Career Assistance Program** - External Affairs Intern
 - **UP Investment Club** - Academic Affairs Project Manager
 
-## :envelope_with_arrow: Let's Connect
-
-* **LinkedIn:** [linkedin.com/in/carloit21](https://www.linkedin.com/in/carloit21/)  
+## :envelope_with_arrow: Let's Connect  
 * **Email:** Primary: [cdubaldo1@up.edu.ph](mailto:cdubaldo1@up.edu.ph) or [carlitou2baldo@gmail.com](mailto:carlitou2baldo@gmail.com)
 * **GitHub:** [github.com/Car3lo](https://github.com/Car3lo)
